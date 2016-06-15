@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+This is the first commit test for my readme-edits.
